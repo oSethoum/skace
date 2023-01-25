@@ -1,4 +1,4 @@
-package kace
+package skace
 
 import "testing"
 
